@@ -8,3 +8,5 @@ MODDIR=${0%/*}
 
 mkdir -p /cache/magisk_mount/system/media/
 cp -f $MODDIR/system/media/bootanimation.zip /cache/magisk_mount/system/media/bootanimation.zip
+# Force by LineageOS, idk why
+cp -f $MODDIR/system/product/media/bootanimation.zip /cache/magisk_mount/system/media/bootanimation.zip
