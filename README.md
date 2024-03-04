@@ -23,12 +23,12 @@ I am not responsible for bricked devices or dead SD cards. YOU choose to install
 
 **Module**
 <ul>
-Download <a href="https://github.com/dhruvkrishnavaid/Cuts-2-Bootanimation-for-Magisk/archive/master.zip" target="_blank">this module</a> and flash through Magisk Manager
+Download <a href="https://github.com/AsrieltheGoat/miku-bootanimation/raw/main/bootanimation-magisk.zip" target="_blank">this module</a> and flash through Magisk Manager
 </ul>
 
 **Manual**
 <ol type="1">
-<li>Download the <a href="" target="_blank">bootanimation.zip</a>.</li>
+<li>Download the <a href="https://github.com/AsrieltheGoat/miku-bootanimation/raw/main/system/media/bootanimation.zip" target="_blank">bootanimation.zip</a>.</li>
 <li>Use a root explorer and navigate to /system/media on your device.</li>
 <li>Paste the bootanimation.zip which you have already downloaded in Step 1.</li>
 <li>Set the permissions to rw--r--r (chmod 644).</li>
